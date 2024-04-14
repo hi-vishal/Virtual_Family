@@ -1,3 +1,5 @@
+Link to our website : https://github.com/hi-vishal/Virtual_Family
+
 # Virtual Family AI Project
 
 Welcome to the Virtual Family AI project for emotional support! This initiative is dedicated to creating a virtual family environment tailored to provide comfort and companionship for orphaned and depressed kids. Through the power of artificial intelligence (AI), we aim to create a safe and nurturing space where children can find solace and understanding.
@@ -49,7 +51,7 @@ TECH USED:
 7.Render(deployment)
 
 IDEA DESCRIPTION:
-We are using AI to help the orphan or depressed or misleading or unguided kids by creating virtual family which guides them as virtual father, mother and friend
+We are using AI to help the orphan or depressed or misleading or unguided kids by creating virtual family which guides them as virtual father, mother and a friend.
 
 FUTURE TECH CHALLENGES:
 
@@ -70,8 +72,4 @@ FUTURE TECH CHALLENGES:
 8.MITIGATING RESOURCE GAPS: Bridging the gap in situations where traditional support systems are limited.
 
 9.TECHNOLOGICAL EMPOWERMENT: Introducing orphaned or unguided children to technology, fostering digital literacy skills.
-
-
-DEPLOYMENT LINK:
-
 
